@@ -1,0 +1,8 @@
+{
+  "name": "Smarty AI Academy",
+  "description": "The smartest way for students to master artificial intelligence with personalized roadmaps and narrated lessons.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
